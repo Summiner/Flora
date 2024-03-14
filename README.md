@@ -17,4 +17,5 @@ A meteor module that implements exploits that have been patched by [ServerPatche
 
 ## Notes:
 - If you know of any other exploits please open a new issue [in ServerPatches](https://github.com/summiner/ServerPatches/issues/new) and give detail about the exploit
+- You can also download this mod from [Hackrinth](https://prerelease.hackrinth.com/mod/flora)!
 - In the provided examples under Features we do not directly or indirectly endorse the people who have made the videos/posts, they are simply to demonstrate the exploit
