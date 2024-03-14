@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "flora",
+  "version": "1.0.0",
+  "name": "Flora",
+  "description": "Flora client on top :3",
+  "authors": [
+    "Summiner"
+  ],
+  "contact": {
+    "email": "jamie@sillysystems.xyz",
+    "repo": "https://github.com/Summiner/Flora"
+  },
+  "license": "MIT",
+  "icon": "assets/icon.jpg",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "rs.jamie.flora.FloraClient"
+    ]
+  },
+  "mixins": [
+    "flora.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "248,3,252"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=1.20.4",
+    "meteor-client": "*"
+  },
+  "accessWidener": "widener.accesswidener"
+}
